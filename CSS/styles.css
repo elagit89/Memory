@@ -1,0 +1,87 @@
+#background{
+    background-color: #dbeaf0;
+    margin: 0px;
+}
+.hide{
+    display: none;
+}
+#poster-position{
+        width: 600px;
+        height: 800px;
+        float: right; 
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150px;
+    color: #196d8f;
+    text-shadow: 2px 2px 3px #777777;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    color: #9f6d1e;
+}
+#logo{
+    margin-top: 10px;
+    margin-left: 150px;
+}
+#logo2{
+    margin-left: 410px;
+}
+
+.button-style{
+    padding: 10px 40px;
+    background-color: #b6c6cf;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    color: #196d8f;
+    border-width: 0px;
+    -moz-box-shadow: 0 0 10px #777777;
+    -webkit-box-shadow: 0 0 10px #777777;
+    box-shadow: 0 0 10px #777777;
+}
+#button-position{
+    margin-top: 100px;
+    margin-left: 450px;
+}
+
+#counter{
+ 
+    height: 100px;
+    margin: 20px auto 20px auto;
+}
+#counter-styles{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+    color: #196d8f;
+    text-shadow: 2px 2px 3px #777777;
+    text-align: center;
+
+}
+#gameboard{
+    width: 1400px;
+    margin: 80px auto 100px auto;
+}
+.card{
+    width: 170px;
+    height: 170px;
+    display: inline;
+    
+}
+
+.square{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    -moz-box-shadow: 0 0 10px #777777;
+    -webkit-box-shadow: 0 0 10px #777777;
+    box-shadow: 0 0 10px #777777;
+}
+
+#button2-position{
+    width: 183px;
+    margin: 10px auto;
+}
+
+
+
